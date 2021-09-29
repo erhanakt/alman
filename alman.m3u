@@ -541,5 +541,7 @@ https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VVwHID9.png" , ZWEI2 Music (1080p)
 https://serve-first.folxplay.tv/folx/ch-2/master.m3u8
-#EXTINF:-1 tvg-id="BursaTV.tr" tvg-country="TR" tvg-language="" tvg-logo="https://i.imgur.com/9gta3PU.png" group-title="",Bursa TV (720p) [Not 24/7]
-https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8
+#EXTINF:0 tvg-id="RTL2.de" group-title="Channels",RTL 2
+http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/41.m3u8
+#EXTINF:0 tvg-id="RTL.de" group-title="Channels",RTL
+http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/42.m3u8
