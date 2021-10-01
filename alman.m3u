@@ -533,9 +533,9 @@ https://stream01.stream.welocal.world/stream/tvm/ngrp:tvm.stream_all/playlist.m3
 https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
 #EXTINF:-1 ,TVO (1080p) [Not 24/7]
 https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/78/UnserDing_logo_2013_203x143.png" , Unserding (544p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/78/UnserDing_logo_2013_203x143.png" , Unserding
 https://srunserding-lh.akamaihd.net/i/visualradio_ud@197013/master.m3u8
-#EXTINF:-1 tvg-logo="http://logos.zattic.com/images/channels/logos/da2f7b1155f1c2586f93/black/84x48.png" , WDR Koeln (720p)
+#EXTINF:-1 tvg-logo="http://logos.zattic.com/images/channels/logos/da2f7b1155f1c2586f93/black/84x48.png" , WDR Koeln
 https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pggeczF.jpg" , World of Freesports (720p)
 https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
@@ -543,7 +543,9 @@ https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
 https://serve-first.folxplay.tv/folx/ch-2/master.m3u8
 #EXTINF:0 tvg-id="RTL2.de" group-title="Channels",RTL 2
 http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/41.m3u8
-#EXTINF:0 tvg-id="RTL.de" group-title="Channels",RTL
+#EXTINF:-1 tvg-id="RTL.de" group-title="Channels",RTL
 http://185.226.88.5:2036/live/kYNJNZQNyH/0DuwTCAUXR/42.m3u8
-#EXTINF:0 tvg-id="SAT1" group-title="Channels",SAT1
+#EXTINF:-1 tvg-id="SAT1" group-title="Channels",SAT1
 https://mcdn.daserste.de/daserste/int/master_3628.m3u8
+#EXTINF:-1 tvg-id="Deutsche Welle" group-title="Channels",Deutsche Welle
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/stream05/streamPlaylist.m3u8
